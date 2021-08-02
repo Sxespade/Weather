@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="town">Moscow</string>
+    <string name="site">Khoroshevo-Mnevniki</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="feels_like">Feels like %1$s</string>
+    <string name="wind">Wind</string>
+    <string name="windSpeed">"%1$d m/sec."</string>
+    <string name="pressureValue">%1$d mmHg</string>
+    <string name="humidityValue">"%1$d%%"</string>
+    <string name="now">Now</string>
+    <string name="select_town">Select town</string>
+    <string name="no_town_selected">Enter town or region</string>
+    <string name="not_available">n/a</string>
+    <string name="error_unknown_scale">Error! Unknown scale!</string>
+    <string name="condition_image">Condition image</string>
+    <string name="weather">Weather</string>
+
+    <string-array name="town_list">
+        <item>Arkhangelsk</item>
+        <item>Cheliabinsk</item>
+        <item>Ekaterinburg</item>
+        <item>Kazan</item>
+        <item>Khabarovsk</item>
+        <item>Krasnoyarsk</item>
+        <item>Kurgan</item>
+        <item>Moscow</item>
+        <item>Novosibirsk</item>
+        <item>Omsk</item>
+        <item>Pskov</item>
+        <item>Riazan</item>
+        <item>Rostov</item>
+        <item>St.Petersburg</item>
+        <item>Tomsk</item>
+        <item>Ulan-Ude</item>
+        <item>Vladivostok</item>
+    </string-array>
+    <string name="enter_town_or_region">Enter town or region</string>
+    <string name="more_details_on_website">More details in web…</string>
+    <string name="erase">Erase</string>
+    <string name="about">About</string>
+    <string name="с_2020" translatable="false">© 2020</string>
+    <string name="author">Aleksey Dorodnyy</string>
+    <string name="close">Close</string>
+    <string name="connection_error_message">There is a error during acquiring weather data!</string>
+    <string name="provider_message_prescription">Data provider returns this message:</string>
+    <string name="provider_message_not_found">Selected location not found</string>
+    <string name="message_connection_error">Connection error:</string>
+    <string name="pressure">Pressure</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+    <string name="favorites_and_history">Locations</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="clear_dialog_title">Clear history</string>
+    <string name="clear_dialog_cancel_message">Clear history cancelled</string>
+    <string name="clear_dialog_skip">History is empty</string>
+    <string name="clear_history">Clear history</string>
+    <string name="clear_dialog_clear_all">Clear all</string>
+    <string name="clear_dialog_clear_selected">Clear selected</string>
+    <string name="clear_dialog_message">Select towns to delete or press \"Clear all\".</string>
+    <string name="provider_message_unauthorized">Wrong authentication key</string>
+    <string name="provider_message_internal_error">Internal error:</string>
+    <string name="provider_message_no_internet">There is no internet connection!</string>
+    <string name="provider_message_internet_check">Please check networks settings!</string>
+    <string name="battery_ok">Battery OK</string>
+    <string name="battery_low">Battery low!</string>
+    <string name="battery_connected">Connected</string>
+    <string name="network_offline">Offline</string>
+    <string name="network_online">Online</string>
+    <string name="current_location">Current location</string>
+    <string name="lon_lat_description">lon: %1$f / lat: %2$f</string>
+</resources>

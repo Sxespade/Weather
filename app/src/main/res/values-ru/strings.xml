@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="town">Москва</string>
+    <string name="site">Хорошево-Мневники</string>
+    <string name="cloudy">Облачно</string>
+    <string name="feels_like">Ощущается как %1$s</string>
+    <string name="pressureValue">%1$d мм рт. ст.</string>
+    <string name="now">Сейчас</string>
+    <string name="wind">Ветер</string>
+    <string name="humidityValue">"%1$d%%"</string>
+    <string name="windSpeed">"%1$d м/сек"</string>
+    <string name="condition_image">Картника погоды</string>
+    <string name="error_unknown_scale">Ошибка! Неизвестная шкала!</string>
+    <string name="enter_town_or_region">Укажите город или регион</string>
+    <string name="select_town">Выбрать город</string>
+    <string name="not_available">н/д</string>
+    <string name="no_town_selected">Укажите город или регион!</string>
+    <string name="weather">Погода</string>
+
+    <string-array name="town_list">
+        <item>Архангельск</item>
+        <item>Владивосток</item>
+        <item>Екатеринбург</item>
+        <item>Казань</item>
+        <item>Красноярск</item>
+        <item>Курган</item>
+        <item>Москва</item>
+        <item>Новосибирск</item>
+        <item>Омск</item>
+        <item>Псков</item>
+        <item>Ростов</item>
+        <item>Рязань</item>
+        <item>Санкт-Петербург</item>
+        <item>Томск</item>
+        <item>Улан-Удэ</item>
+        <item>Хабаровск</item>
+        <item>Челябинск</item>
+    </string-array>
+    <string name="more_details_on_website">Подробности в интернете…</string>
+    <string name="erase">Очистить</string>
+    <string name="about">О приложении</string>
+    <string name="author">Алексей Дородный</string>
+    <string name="close">Закрыть</string>
+    <string name="connection_error_message">При получении данных о погоде возникла ошибка!</string>
+    <string name="provider_message_prescription">Сообщение поставщика данных:</string>
+    <string name="provider_message_not_found">Выбранный город не найден</string>
+    <string name="message_connection_error">Ошибка при подключении:</string>
+    <string name="pressure">Давление</string>
+    <string name="navigation_drawer_open">История открыта</string>
+    <string name="navigation_drawer_close">История закрыта</string>
+    <string name="favorites_and_history">Локации</string>
+    <string name="add_favorite">Закрепить</string>
+    <string name="remove_favorite">Открепить</string>
+    <string name="clear_dialog_title">Очистить историю</string>
+    <string name="clear_dialog_cancel_message">Операция отменена</string>
+    <string name="clear_dialog_skip">История пуста</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="clear_dialog_clear_all">Очистить все</string>
+    <string name="clear_dialog_clear_selected">Очистить</string>
+    <string name="clear_dialog_message">Выберите города, которые нужно удалить, или нажмите \"Очистить все\"</string>
+    <string name="provider_message_unauthorized">Ключ аутентификации не подходит</string>
+    <string name="provider_message_internal_error">Внутренняя ошибка:</string>
+    <string name="provider_message_no_internet">Интернет отсутствует!</string>
+    <string name="provider_message_internet_check">Пожалуйста, проверьте настройки сетей!</string>
+    <string name="battery_ok">Батарея ОК</string>
+    <string name="battery_low">Низкий заряд!</string>
+    <string name="battery_connected">Подключено</string>
+    <string name="network_online">Online</string>
+    <string name="network_offline">Offline</string>
+    <string name="current_location">Текущее положение</string>
+    <string name="lon_lat_description">долгота: %1$f / широта: %2$f</string>
+</resources>
